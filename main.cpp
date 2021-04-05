@@ -1,9 +1,4 @@
-//
-//  main.cpp
-//  Assignment 1C
-//
-//  Created by Ujjwal Sankhwar on 26/03/21.
-//
+
 
 #include <iostream>
 #include <opencv2/opencv.hpp>
